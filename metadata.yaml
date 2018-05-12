@@ -1,0 +1,33 @@
+_repo: Synthetische-Geometrie-der-Kugeln-und-linearen-Kugelsysteme-mit-einer-Einleitung-in-die-analy__17153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reye, Theodor
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '7176'
+    url: http://www.gutenberg.org/2009/agents/7176
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+gutenberg_issued: '2005-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17153'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematics'
+- !lcsh 'Circle'
+- !lcsh 'Sphere'
+- !lcsh 'Geometry, Analytic'
+title: Synthetische Geometrie der Kugeln und linearen Kugelsysteme mit einer Einleitung
+  in die analytische Geometrie der Kugelsysteme
+url: http://www.gutenberg.org/ebooks/17153
