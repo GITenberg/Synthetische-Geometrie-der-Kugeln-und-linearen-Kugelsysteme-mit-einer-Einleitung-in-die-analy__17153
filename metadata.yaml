@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7176'
     url: http://www.gutenberg.org/2009/agents/7176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17153#Synthetische-Geometrie-der-Kugeln-und-linearen-Kugelsysteme-mit-einer-Einleitung-in-die-analy_
 gutenberg_bookshelf:
 - Mathematics
 - DE Sachbuch
